@@ -1,11 +1,11 @@
-2026-01-14 14:05:32,423 - INFO - START MidasTouch =============================================
-2026-01-14 14:05:32,423 - INFO - START MidasTouch Start Time = 2026-01-14 14:05:32
-2026-01-14 14:05:32,423 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
-2026-01-14 14:05:32,423 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
-2026-01-14 14:05:35,806 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
-2026-01-14 14:05:36,946 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
-2026-01-14 14:05:37,117 - INFO - PERFORMANCE MidasTouch The total process duration was:4.70
-2026-01-14 14:05:37,117 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 14:05:37
-2026-01-14 14:05:37,117 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:4.70
-2026-01-14 14:05:37,117 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
-2026-01-14 14:05:37,117 - INFO - END MidasTouch =============================================
+2026-01-14 15:40:04,990 - INFO - START MidasTouch =============================================
+2026-01-14 15:40:04,992 - INFO - START MidasTouch Start Time = 2026-01-14 15:40:04
+2026-01-14 15:40:04,992 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
+2026-01-14 15:40:04,992 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
+2026-01-14 15:40:08,030 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
+2026-01-14 15:40:09,049 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch The total process duration was:4.21
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 15:40:09
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:4.21
+2026-01-14 15:40:09,196 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
+2026-01-14 15:40:09,196 - INFO - END MidasTouch =============================================

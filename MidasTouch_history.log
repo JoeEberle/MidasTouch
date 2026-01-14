@@ -77,3 +77,67 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 15:30:33,674 - INFO - START MidasTouch =============================================
+2026-01-14 15:30:33,674 - INFO - START MidasTouch Start Time = 2026-01-14 15:30:33
+2026-01-14 15:30:33,674 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
+2026-01-14 15:30:33,675 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
+2026-01-14 15:30:37,021 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
+2026-01-14 15:30:37,443 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-14 15:30:37,599 - INFO - PERFORMANCE MidasTouch The total process duration was:3.93
+2026-01-14 15:30:37,599 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 15:30:37
+2026-01-14 15:30:37,599 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:3.93
+2026-01-14 15:30:37,599 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
+2026-01-14 15:30:37,600 - INFO - END MidasTouch =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 15:33:20,147 - INFO - START MidasTouch =============================================
+2026-01-14 15:33:20,148 - INFO - START MidasTouch Start Time = 2026-01-14 15:33:20
+2026-01-14 15:33:20,148 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
+2026-01-14 15:33:20,148 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
+2026-01-14 15:33:23,116 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
+2026-01-14 15:33:23,658 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-14 15:33:23,712 - INFO - PERFORMANCE MidasTouch The total process duration was:3.56
+2026-01-14 15:33:23,714 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 15:33:23
+2026-01-14 15:33:23,714 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:3.56
+2026-01-14 15:33:23,714 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
+2026-01-14 15:33:23,714 - INFO - END MidasTouch =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 15:39:31,529 - INFO - START MidasTouch =============================================
+2026-01-14 15:39:31,529 - INFO - START MidasTouch Start Time = 2026-01-14 15:39:31
+2026-01-14 15:39:31,529 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
+2026-01-14 15:39:31,529 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
+2026-01-14 15:39:34,110 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
+2026-01-14 15:39:34,631 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-14 15:39:34,780 - INFO - PERFORMANCE MidasTouch The total process duration was:3.25
+2026-01-14 15:39:34,780 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 15:39:34
+2026-01-14 15:39:34,781 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:3.25
+2026-01-14 15:39:34,781 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
+2026-01-14 15:39:34,781 - INFO - END MidasTouch =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 15:40:04,990 - INFO - START MidasTouch =============================================
+2026-01-14 15:40:04,992 - INFO - START MidasTouch Start Time = 2026-01-14 15:40:04
+2026-01-14 15:40:04,992 - INFO - MidasTouch Step 0 - Initialize the configuration file parser
+2026-01-14 15:40:04,992 - INFO - Process MidasTouch Step 0 - Initializing and starting Logging Process.
+2026-01-14 15:40:08,030 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: XAUUSD=X"}}}
+2026-01-14 15:40:09,049 - ERROR - $XAUUSD=X: possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch The total process duration was:4.21
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch Stop Time = 2026-01-14 15:40:09
+2026-01-14 15:40:09,195 - INFO - PERFORMANCE MidasTouch Low process duration less than 3 minutes:4.21
+2026-01-14 15:40:09,196 - INFO - PERFORMANCE MidasTouch Performance optimization is optional
+2026-01-14 15:40:09,196 - INFO - END MidasTouch =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
