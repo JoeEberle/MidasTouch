@@ -5,7 +5,7 @@
 ## Learning how to trade GOLD futures 
 
     ![Image image_filename](code.png)
-## 🧠 Midas Touch
+## 💰  Midas Touch 💰 
 
 **Learning** to trade Gold Futures
 
@@ -135,7 +135,7 @@ Welcome to the solution **Midastouch**
 Learning how to trade GOLD futures 
 
  
-## 🧠 Midas Touch
+## 💰  Midas Touch 💰 
 
 **Learning** to trade Gold Futures
 

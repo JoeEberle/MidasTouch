@@ -1,5 +1,5 @@
 
-## 🧠 Midas Touch
+## 💰  Midas Touch 💰 
 
 **Learning** to trade Gold Futures
 
